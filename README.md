@@ -42,7 +42,7 @@ Data Structures and Algorithms Practice: A repository dedicated to solving probl
 How to Connect
 I’m always open to connecting with fellow developers, mentors, and learners. Feel free to reach out to me or collaborate on projects!
 
-GitHub: [github.com/Belal2015]
+GitHub: [(https://github.com/Belal2015)]
 LinkedIn: [www.linkedin.com/in/belal-mahmoud-55b9212b5]
 Email: [bilalmahmoud690@gmail.com]
 Support My Learning Journey
