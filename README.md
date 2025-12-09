@@ -51,4 +51,36 @@
 <div align="center">  
 
 #### Cloud  
-<img src="https://skillico
+<img src="https://skillicons.dev/icons?i=aws" /> 
+</div>
+</td>
+
+<td valign="top" width="20%">
+<div align="center"> 
+
+#### Operating Systems  
+<img src="https://skillicons.dev/icons?i=ubuntu" /> 
+<img src="https://skillicons.dev/icons?i=linux" /> 
+</div>
+</td>
+
+</tr></table>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Belal2015?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repos/Belal2015?style=for-the-badge" alt="GitHub Repos" />
+  <img src="https://img.shields.io/github/languages/top/Belal2015?style=for-the-badge" alt="Top Language" />
+</p>
+
+---
+
+## 📬 Connect with Me
+<p align="center">
+<a href="mailto:belal1652005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/belal-mahmoud-55b9212b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/01149087662"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
