@@ -72,12 +72,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Belal2015?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repos/Belal2015?style=for-the-badge" alt="GitHub Repos" />
-  <img src="https://img.shields.io/github/languages/top/Belal2015?style=for-the-badge" alt="Top Language" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Belal2015&show_icons=true&theme=dark" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belal2015&theme=dark" width="45%"/>
 </p>
