@@ -23,7 +23,7 @@
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 
-<table width="100%">
+<table width="125%">
 <tr>
 <td width="50%" valign="top">
 
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+
 </p>
 
 </td>
