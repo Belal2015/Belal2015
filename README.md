@@ -20,119 +20,100 @@
 
 
 
-
 <h2 align="center">🛠️ My Tech Stack</h2>
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse">
 
-<tr>
-<td>
-<h3>☁️ Cloud & Infrastructure</h3>
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="130" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">☁️ Cloud</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>🏗️ Infrastructure as Code</h3>
-<p>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">🏗️ IaC</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>🐳 Containers & Orchestration</h3>
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">🐳 Containers</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>⚙️ CI/CD & GitOps</h3>
-<p>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">⚙️ CI / CD</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>📊 Monitoring & Observability</h3>
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">📊 Monitoring</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>💻 Languages & Scripting</h3>
-<p>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">💻 Languages</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>🗄️ Databases</h3>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">🗄️ Databases</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>🔐 Security</h3>
-<p>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vault-FFCF25?style=for-the-badge&logo=vault&logoColor=black"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">🔐 Security</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vault-FFCF25?style=flat-square&logo=vault&logoColor=black"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>📦 Version Control</h3>
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">📦 VCS</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<h3>🖥️ Operating Systems</h3>
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-</td>
-</tr>
+  <tr>
+    <td align="center" style="padding:10px 14px;font-weight:600;font-size:13px;white-space:nowrap">🖥️ OS</td>
+    <td style="padding:10px 14px">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+    </td>
+  </tr>
+
+</table>
 
 </table>
 <h2 align="center">🚀 What I'm Up To Now</h2>
