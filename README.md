@@ -25,7 +25,7 @@
 
 <table width="80%">
 <tr>
-<td width="50%" valign="top">
+<td width="80%" valign="top">
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <p>
