@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:39FF14&height=120&section=footer"/>
-</p>
 
 <h1 align="center">Hi there 👋 I'm Belal Mahmoud</h1>
 <h3 align="center">Aspiring Cloud & DevOps Engineer </h3>
@@ -78,8 +75,6 @@
 ---
 >
 
----
-
 <h2 align="center">🚀 What I'm Up To Now</h2>
 <ul>
   <li>Building cloud-native projects and open-source tools</li>
@@ -96,8 +91,4 @@
   <a href="mailto:belal1652005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/belal-mahmoud-55b9212b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/201149087662"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:39FF14&height=120&section=footer"/>
 </p>
