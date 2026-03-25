@@ -25,7 +25,13 @@
 
 <table width="80%">
 <tr>
-<td width="80%" valign="top">
+<td width="50%" valign="top">
+
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <p>
@@ -55,7 +61,6 @@
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>📊 Monitoring & Observability</h3>
@@ -79,15 +84,11 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
-
-
-<h3>📦 Version Control </h3>
+<h3>📦 Version Control</h3>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-<br/>
-
 </p>
 
 </td>
