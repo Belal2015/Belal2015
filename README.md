@@ -1,12 +1,11 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0077B5&height=180&section=header&text=Hi!%20I'm%20Belal%20Mahmoud%20🚀&fontSize=40&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20in%20the%20Making&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:39FF14&height=120&section=footer"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Belal Mahmoud</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer here</h3>
+<h3 align="center">Aspiring Cloud & DevOps Engineer </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0077B5&height=180&section=header&text=Hi!%20I'm%20Belal%20Mahmoud%20🚀&fontSize=40&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20in%20the%20Making&descAlignY=60"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=860&lines=Automating+Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Scaling+Cloud+Native+Applications+%E2%98%81%EF%B8%8F;Orchestrating+Kubernetes+Clusters+%F0%9F%90%B3;Optimizing+CI%2FCD+Pipelines+with+Passion+%F0%9F%9A%80;Provisioning+the+Future+with+Terraform+%F0%9F%94%A7;Managing+Containers+%7C+Clouds+%7C+Code+%F0%9F%92%BB"/>
 </p>
 
 
