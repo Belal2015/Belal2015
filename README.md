@@ -66,13 +66,13 @@
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belal2015&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=39FF14&text_color=C9D1D9&border_radius=10" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belal2015&theme=merko&hide_border=true&background=0D1117&ring=00D4FF&fire=39FF14&currStreakLabel=00D4FF&border_radius=10" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BelalMahmoud-1&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=39FF14&text_color=C9D1D9&border_radius=10" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalMahmoud-1&theme=merko&hide_border=true&background=0D1117&ring=00D4FF&fire=39FF14&currStreakLabel=00D4FF&border_radius=10" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Belal2015&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=10" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belal2015&bg_color=0D1117&color=00D4FF&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BelalMahmoud-1&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=10" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BelalMahmoud-1&bg_color=0D1117&color=00D4FF&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="49%"/>
 </div>
 
 ---
