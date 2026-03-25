@@ -23,7 +23,7 @@
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 
-<table width="125%">
+<table width="80%">
 <tr>
 <td width="50%" valign="top">
 
