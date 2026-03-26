@@ -18,10 +18,7 @@
 - 🤝 Collaboration and knowledge sharing fuel my journey.
 
 
-
-
-
-<h2 align="center">🛠️ My Tech Stack</h2>
+---
 
 <table width="80%">
 <tr>
